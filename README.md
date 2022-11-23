@@ -1,6 +1,8 @@
 # RNN-molecular-generation
 A language based model for molecular generation using the recurrent neural network. The detailed explanation is given [here](https://www.gchenlab.com/molecular-generation-using-rnn/).
 
+![RNN-mol-gen](./RNN-mol-gen.jpg)
+
 ![RNN-mol-gen](./RNN-mol-gen.jpeg)
 
 # Content
