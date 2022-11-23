@@ -2,9 +2,11 @@
 A language based model for molecular generation using the recurrent neural network. The detailed explanation is given [here](https://www.gchenlab.com/molecular-generation-using-rnn/).
 
 The model architecture:
+
 <img src="RNN-mol-gen.jpg" alt="drawing" width="600"/>
 
 Generated samples:
+
 <img src="RNN-mol-gen.jpeg" alt="drawing" width="600"/>
 
 # Content
